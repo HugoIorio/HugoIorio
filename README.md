@@ -64,7 +64,7 @@ Meu nome é Hugo F. Iorio, tenho 22 anos e sou natural de Sorocaba. Atualmente, 
     title="FotoKonverter"
     width="50px"
     style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/HugoIorio/FotoKonverter/refs/heads/main/assets/FotoKonverter.png?token=GHSAT0AAAAAAELCBBQXOAEJMLLDN3D7XE5Y2WBYPJQ"
+    src="[https://raw.githubusercontent.com/HugoIorio/FotoKonverter/refs/heads/main/assets/FotoKonverter.png?token=GHSAT0AAAAAAELCBBQXOAEJMLLDN3D7XE5Y2WBYPJQ](https://raw.githubusercontent.com/HugoIorio/FotoKonverter/refs/heads/main/assets/FotoKonverter.png)"
 >
 
 [**FotoKonverter**
