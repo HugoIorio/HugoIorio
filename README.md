@@ -84,5 +84,5 @@ Um conversor de imagens em lote - Fácil, Rápido e Privado.](https://github.com
 <img
     align="left"
     height=200px
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=HugoIorio&langs_count=3&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=HugoIorio&langs_count=4&theme=transparent"
 >
